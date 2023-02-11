@@ -1,4 +1,3 @@
-https://github.com/Toprakotku/Toprakotku/tree/main#hi-there-
 ### Hi there 👋
 
 <!--
